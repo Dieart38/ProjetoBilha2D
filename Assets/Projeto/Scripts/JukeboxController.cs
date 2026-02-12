@@ -31,15 +31,14 @@ public class JukeboxController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.JoystickButton8))
+        if (Input.GetKeyDown(KeyCode.Joystick1Button1))
         {
-            if (playerEstaPerto)
-            {
+            
                 AlternarMenu();
-            }
+            
         }
 
-        if (playerEstaPerto && Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.E))
         {
             AlternarMenu();
         }
@@ -134,20 +133,20 @@ public class JukeboxController : MonoBehaviour
             textoNomeMusica.text = caixinhaDeSom.clip.name;
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("BolaBranca"))
-        {
-            playerEstaPerto = true;
-        }
-    }
+    // private void OnTriggerEnter2D(Collider2D other)
+    // {
+    //     if (other.CompareTag("BolaBranca"))
+    //     {
+    //         playerEstaPerto = true;
+    //     }
+    // }
 
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("BolaBranca"))
-        {
-            playerEstaPerto = false;
-            FecharMenu(); // Usa o método FecharMenu para resetar a variável estática
-        }
-    }
+    // private void OnTriggerExit2D(Collider2D other)
+    // {
+    //     if (other.CompareTag("BolaBranca"))
+    //     {
+    //         playerEstaPerto = false;
+    //         FecharMenu(); // Usa o método FecharMenu para resetar a variável estática
+    //     }
+    // }
 }
