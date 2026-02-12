@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 57daa6f0ff9c8034b87e8d7630a3c18c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8185436858062818136
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_0
+  - first:
+      213: 5656682989863583702
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_1
+  - first:
+      213: 415826553798342455
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_2
+  - first:
+      213: -4273928243152251658
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_3
+  - first:
+      213: -2420111834566062028
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_4
+  - first:
+      213: 5149811573642881156
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_5
+  - first:
+      213: -8698674391485862976
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_6
+  - first:
+      213: 3567436825054246368
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_7
+  - first:
+      213: 3816607591821015029
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_8
+  - first:
+      213: 2163164809424762513
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_9
+  - first:
+      213: -1454458561172258928
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_10
+  - first:
+      213: 8179314796902310010
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_11
+  - first:
+      213: -1524185392474738643
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_12
+  - first:
+      213: -6553368987239913601
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_13
+  - first:
+      213: 5759172905410493186
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_14
+  - first:
+      213: 1111631167835117052
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_15
+  - first:
+      213: -3647718340033668522
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_16
+  - first:
+      213: -7246309275684826278
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_17
+  - first:
+      213: 330359617147050581
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_18
+  - first:
+      213: -5801184377201792902
+    second: SMS_Pool_Balls_RedYellow_No_Shadow_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b49304473889170800000000000000
+      internalID: 8185436858062818136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df30d97533908e40800000000000000
+      internalID: 5656682989863583702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737335b2c0055c500800000000000000
+      internalID: 415826553798342455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4966738e4ffa4c0800000000000000
+      internalID: -4273928243152251658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43098f7db190a6ed0800000000000000
+      internalID: -2420111834566062028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488ed23675ec77740800000000000000
+      internalID: 5149811573642881156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba2be7ab9184780800000000000000
+      internalID: -8698674391485862976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5710c24e4128130800000000000000
+      internalID: 3567436825054246368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7fc8d226057f430800000000000000
+      internalID: 3816607591821015029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1967368eeea150e10800000000000000
+      internalID: 2163164809424762513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f3dc805a9b0dbe0800000000000000
+      internalID: -1454458561172258928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70657fc873c28170800000000000000
+      internalID: 8179314796902310010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2034b5067109dae0800000000000000
+      internalID: -1524185392474738643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e08990a1cd05a0800000000000000
+      internalID: -6553368987239913601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bfb0b7e31bcef40800000000000000
+      internalID: 5759172905410493186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5901058ae4d6f00800000000000000
+      internalID: 1111631167835117052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a9d950f73b06dc0800000000000000
+      internalID: -3647718340033668522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53103a3b10ff6b90800000000000000
+      internalID: -7246309275684826278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1f2c425ca59400800000000000000
+      internalID: 330359617147050581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Pool_Balls_RedYellow_No_Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7867508b8d0e7fa0800000000000000
+      internalID: -5801184377201792902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SMS_Pool_Balls_RedYellow_No_Shadow_0: 8185436858062818136
+      SMS_Pool_Balls_RedYellow_No_Shadow_1: 5656682989863583702
+      SMS_Pool_Balls_RedYellow_No_Shadow_10: -1454458561172258928
+      SMS_Pool_Balls_RedYellow_No_Shadow_11: 8179314796902310010
+      SMS_Pool_Balls_RedYellow_No_Shadow_12: -1524185392474738643
+      SMS_Pool_Balls_RedYellow_No_Shadow_13: -6553368987239913601
+      SMS_Pool_Balls_RedYellow_No_Shadow_14: 5759172905410493186
+      SMS_Pool_Balls_RedYellow_No_Shadow_15: 1111631167835117052
+      SMS_Pool_Balls_RedYellow_No_Shadow_16: -3647718340033668522
+      SMS_Pool_Balls_RedYellow_No_Shadow_17: -7246309275684826278
+      SMS_Pool_Balls_RedYellow_No_Shadow_18: 330359617147050581
+      SMS_Pool_Balls_RedYellow_No_Shadow_19: -5801184377201792902
+      SMS_Pool_Balls_RedYellow_No_Shadow_2: 415826553798342455
+      SMS_Pool_Balls_RedYellow_No_Shadow_3: -4273928243152251658
+      SMS_Pool_Balls_RedYellow_No_Shadow_4: -2420111834566062028
+      SMS_Pool_Balls_RedYellow_No_Shadow_5: 5149811573642881156
+      SMS_Pool_Balls_RedYellow_No_Shadow_6: -8698674391485862976
+      SMS_Pool_Balls_RedYellow_No_Shadow_7: 3567436825054246368
+      SMS_Pool_Balls_RedYellow_No_Shadow_8: 3816607591821015029
+      SMS_Pool_Balls_RedYellow_No_Shadow_9: 2163164809424762513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
